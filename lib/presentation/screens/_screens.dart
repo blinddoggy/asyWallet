@@ -1,0 +1,11 @@
+export 'package:tradex_wallet_3/presentation/route/route_error_screen.dart';
+export 'package:tradex_wallet_3/presentation/screens/account/import_account_screen.dart';
+export 'package:tradex_wallet_3/presentation/screens/auth/login_pin_screen.dart';
+export 'package:tradex_wallet_3/presentation/screens/auth/sign_up_web_3/sign_up_web_3_screen.dart';
+export 'package:tradex_wallet_3/presentation/screens/auth/welcome_screen.dart';
+export 'package:tradex_wallet_3/presentation/screens/home_screen.dart';
+// export 'package:tradex_wallet_3/presentation/screens/nft/nft_view.dart';
+export 'package:tradex_wallet_3/presentation/screens/portfolio/views/asset_view.dart';
+export 'package:tradex_wallet_3/presentation/screens/portfolio/views/portfolio_view.dart';
+export 'package:tradex_wallet_3/presentation/screens/settings/theme_changer_screen.dart';
+export 'package:tradex_wallet_3/presentation/screens/settings/views/settings_view.dart';
